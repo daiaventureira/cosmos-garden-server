@@ -1,2 +1,3 @@
 class Prediction < ApplicationRecord
+
 end
